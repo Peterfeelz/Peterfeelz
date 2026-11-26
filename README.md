@@ -17,7 +17,7 @@ Currently a **,Switch Engineer\Technical Support  at eTranzact International Plc
 
 ## 🔬 Research
 
-My Master's thesis looks at **frugal edge-cloud architectures for deploying Large Vision-Language Models (LVLMs)** in low-resource African settings, with use cases in **healthcare** and **agriculture**.
+My Master's thesis looks at **Design and implementation of an explainable agentic brain cancer diagnosis application in low-resource African settings using online VLM distillation**.
 
 Interests: vision-language models · explainable AI · edge AI · AI for health
 
