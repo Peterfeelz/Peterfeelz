@@ -1,8 +1,6 @@
-## Hi there 👋
+# Hi, I'm Peter Ademola Arowoogun 👋
 
-<!--# Hi, I'm Peter Ademola Arowoogun 👋
-
-**Payments / Card Switching (FEP) Support Engineer · Master of Information Technology student, University of Lagos**
+**Payments / Switching (FEP and Mobile) Support Engineer · Master of Information Technology student, University of Lagos**
 
 I work on the infrastructure that moves card and transfer transactions across Nigeria's payment rails, and I research how to run large vision-language models on low-cost hardware in low-resource African settings.
 
@@ -15,7 +13,7 @@ I work on the infrastructure that moves card and transfer transactions across Ni
 - **Partner integrations:** Visa, Mastercard, Verve, Interswitch, UPSL, NIBSS, Etranzact, Smartvista
 - **Operations:** monitoring, incident handling, DR failover, PCI-DSS-aware support
 
-Currently a **Switch Engineer / Technical Support at eTranzact International Plc**. Previously at Access Bank, Polaris Bank and First Bank of Nigeria.
+Currently a **,Switch Engineer\Technical Support  at eTranzact International Plc**. Previously at Access Bank, Polaris Bank and First Bank of Nigeria.
 
 ## 🔬 Research
 
@@ -44,24 +42,13 @@ Interests: vision-language models · explainable AI · edge AI · AI for health
 ## 🎓 Education & certifications
 
 - **Master of Information Technology**, University of Lagos (2026)
-- **B.Sc. Physics with Electronics** (2021)
+- **B.Sc. Physics with Electronics**,  (2021)
 - Postilion Basic Training (ACI Worldwide)
 
 ## 📫 Connect
 
 - ORCID: [0009-0008-9244-7788](https://orcid.org/0009-0008-9244-7788)
 - 📍 Lagos, Nigeria
-- LinkedIn: [peter-arowoogun](https://www.linkedin.com/in/peter-arowoogun-60a137211)
-**Peterfeelz/Peterfeelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - LinkedIn: www.linkedin.com/in/peter-arowoogun-60a137211
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
